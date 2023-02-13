@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "svg-logo-maker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaroslavVolvach/MakeSVG"
+  },
+  "homepage": "https://github.com/YaroslavVolvach/MakeSVG",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
